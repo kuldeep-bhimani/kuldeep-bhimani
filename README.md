@@ -15,9 +15,9 @@
 
 ## ❤️ Connect With Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:kuldeepbhimani007@gmail.com)&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/kuldeep-bhimani)&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/kuldeep-bhimani/)&nbsp;&nbsp;
+[<img src='https://github.com/kuldeep-bhimani/kuldeep-bhimani/assets/53705863/9b5c23c9-7fcd-4526-ace5-fdbded25b76e' alt='gmail' height='30'>](mailto:kuldeepbhimani007@gmail.com)&nbsp;&nbsp;
+[<img src='https://github.com/kuldeep-bhimani/kuldeep-bhimani/assets/53705863/b2364e8b-6d77-450e-b9e6-28836eb7e089' alt='github' height='40'>](https://github.com/kuldeep-bhimani)&nbsp;&nbsp;
+[<img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727798-75572198-8764-4e7b-8a34-d772e51aa730.png" alt="linkedin">](https://www.linkedin.com/in/kuldeep-bhimani/)&nbsp;&nbsp;
 
 ## 💳 Github Profile Trophies
 
