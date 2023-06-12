@@ -57,7 +57,7 @@
 <details>
 <summary>Don't Click Here</summary>
 
-<img src="https://github.com/kuldeep-bhimani/kuldeep-bhimani/blob/output/github-contribution-grid">
+<img src="https://github.com/kuldeep-bhimani/kuldeep-bhimani/blob/output/github-contribution-grid-snake.svg">
  
  </details>
 
