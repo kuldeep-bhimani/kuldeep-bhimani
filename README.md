@@ -1,6 +1,14 @@
 <h1 align="center">Hi all, I'm Kuldeep 👋</h1>
 
 <p align="left">
+ <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=Hey+There!;My+self+Kuldeep+Bhimani;Welcome+to+my+GitHub;I'm+a+Software+developer;I'm+a+web+developer;I'm+a+competitive+programmer;I'm+a+cloud+expert;I'm+a+LeetCoder;I'm+a+Open+Source+Contributor;I'm+a+front-end+developer;">
+  </a>
+</p>
+
+---
+
+<p align="left">
   <img alt="Kuldeep's Profile Views" src="https://komarev.com/ghpvc/?username=kuldeep-bhimani&style=flat&color=blue&label=Profile%20View"/>
   <img alt="Kuldeep's GitHub Followers" src="https://img.shields.io/github/followers/kuldeep-bhimani?style=flat&color=blue&label=Followers"/>
   <img alt="Kuldeep's GitHub Stars" src="https://img.shields.io/github/stars/kuldeep-bhimani?style=flat&color=blue&label=Stars"/>
@@ -16,7 +24,7 @@
 ## ❤️ Connect With Me
 
 [<img src='https://github.com/kuldeep-bhimani/kuldeep-bhimani/assets/53705863/9b5c23c9-7fcd-4526-ace5-fdbded25b76e' alt='gmail' height='30'>](mailto:kuldeepbhimani007@gmail.com)&nbsp;&nbsp;
-[<img src='https://github.com/kuldeep-bhimani/kuldeep-bhimani/assets/53705863/b2364e8b-6d77-450e-b9e6-28836eb7e089' alt='github' height='40'>](https://github.com/kuldeep-bhimani)&nbsp;&nbsp;
+[<img src='https://github.com/kuldeep-bhimani/kuldeep-bhimani/assets/53705863/b2364e8b-6d77-450e-b9e6-28836eb7e089' alt='github' height='39'>](https://github.com/kuldeep-bhimani)&nbsp;&nbsp;
 [<img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727798-75572198-8764-4e7b-8a34-d772e51aa730.png" alt="linkedin">](https://www.linkedin.com/in/kuldeep-bhimani/)&nbsp;&nbsp;
 
 ## 💳 Github Profile Trophies
