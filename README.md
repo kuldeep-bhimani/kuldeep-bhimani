@@ -63,7 +63,7 @@
 </div>
 
 <!-- <details> -->
-<summary> <b> Snake-game action </b></summary>
+<h2> <b> Github action </b></h2>
 
 <img src="https://github.com/kuldeep-bhimani/kuldeep-bhimani/blob/output/github-contribution-grid-snake.svg">
  
