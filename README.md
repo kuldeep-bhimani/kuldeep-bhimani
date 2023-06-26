@@ -62,12 +62,12 @@
 </table>
 </div>
 
-<details>
-<summary> <b> Don't Click Here </b></summary>
+<!-- <details> -->
+<summary> <b> Snake-game action </b></summary>
 
 <img src="https://github.com/kuldeep-bhimani/kuldeep-bhimani/blob/output/github-contribution-grid-snake.svg">
  
- </details>
+ <!-- </details> -->
 
 ## References for making your 😎 README.md
 
