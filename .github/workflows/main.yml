@@ -6,7 +6,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 6 hours
+    # every Monday
     - cron: "0 0 * * 1"
 
   # This command allows us to run the Action automatically from the Actions tab.
@@ -28,6 +28,8 @@ jobs:
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
 
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: |
